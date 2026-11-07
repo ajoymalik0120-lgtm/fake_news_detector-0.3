@@ -1,0 +1,15 @@
+# Secrets and API keys
+.env
+*.key
+
+# Python files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node/JavaScript dependencies
+node_modules/
+
+# System / IDE files
+.DS_Store
+.vscode/
