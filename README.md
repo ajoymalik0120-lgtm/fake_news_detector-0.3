@@ -45,4 +45,6 @@ Ensure you have Python installed on your system.
    ```bash
    streamlit run app.py
    ```
-
+6. **Live Demo:**
+   [Try the URL to check the project working]
+   (https://fakenewsdetector-03-usingai.streamlit.app/)
